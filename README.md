@@ -26,3 +26,7 @@ In each folder, I described the installation for each program, but I'll write it
 ## TODO
 
 I have no idea if it is supported on macOS, so if someone has it, I will be glad to know
+
+##
+
+idea by : https://github.com/smokes
