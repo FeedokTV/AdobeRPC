@@ -5,10 +5,10 @@ To install RPC in your After Effects you have to
 1. Create new folder (ex. RPC) in Plug-ins directory. Example : C:\Program Files\Adobe\Adobe After Effects 2020\Support Files\Plug-ins\RPC
 2. Move RPC.aex, RPC.ilk, RPC.pdb to this folder
 3. Run After Effects
+4. In the effects tab, you will have a Feedok section, select any layer in the project and apply RPC on it 
+If you have an error, then it's okay the plugin will still work
 
-Now you have rich persence for your After Effects :)
-
-While the code is a bit shitty, it will cause an error, but you can still check the discord and the RPC will work
+Check it out
 
 [RU]
 
@@ -18,5 +18,9 @@ While the code is a bit shitty, it will cause an error, but you can still check 
 C:\Program Files\Adobe\Adobe After Effects 2020\Support Files\Plug-ins\RPC
 2. Переместить RPC.aex, RPC.ilk, RPC.pdb в эту папку
 3. Запустить After Effects
+4. Во вкладке эффекты у вас появится раздел Feedok, выберите любой слой в проекте и наложите на него RPC 
+Если у вас будет ошибка, то ничего страшного плагин всё равно будет работать
 
-Всё, теперь у вас в дискорде будет отображаться ваша работа в After Effects :)
+Проверяйте
+
+
