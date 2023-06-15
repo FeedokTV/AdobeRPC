@@ -1,4 +1,4 @@
-# Adobe RPC by Feedok 
+# Adobe RPC by Feedok [CLOSED/OUTDATED]
 
 ![N|Solid](https://github.com/FeedokTV/AdobeRPC/blob/main/logo.png?raw=true)
 
